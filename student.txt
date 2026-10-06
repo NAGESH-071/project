@@ -3,3 +3,4 @@ Cousrse :CSE
 Qualification : BTech
 Skill : Java & SQL
 Goal : Java Developer
+Location : Hyderabad
