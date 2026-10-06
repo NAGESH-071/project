@@ -1,2 +1,4 @@
 Namr : Nagesh
 course : JAVA
+Qualification : BTech
+Skill : java
