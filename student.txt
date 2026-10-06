@@ -1,4 +1,5 @@
-Namr : Nagesh
-course : JAVA
+Name : Nagesh
+Cousrse :CSE
 Qualification : BTech
-Skill : java
+Skill : Java & SQL
+Goal : Java Developer
